@@ -1,0 +1,4 @@
+streamlit-option-menu
+streamlit
+sklearn
+scikit-learn==1.0.2
