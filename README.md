@@ -2,6 +2,10 @@
 
 
 
+https://user-images.githubusercontent.com/95062628/205394406-cbb2f62b-ae3f-4c28-baad-92697bd5b6f2.mp4
+
+
+
 <a href='https://gmayuri1904-multiple-disease-detection-app-e09xhm.streamlit.app/'>Live app</a>
 
 # Dataset Used
