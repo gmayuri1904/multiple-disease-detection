@@ -1,5 +1,8 @@
 # Multiple Disease Detection <br>
-https://user-images.githubusercontent.com/95062628/205394406-cbb2f62b-ae3f-4c28-baad-92697bd5b6f2.mp4
+
+
+![streamlit-app-2022-12-03-01-12-61 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/95062628/205396242-b79cf5f8-3b82-43f5-bbef-06b8b8c49458.gif)
+
 
 
 
